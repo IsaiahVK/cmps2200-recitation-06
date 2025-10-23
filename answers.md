@@ -32,6 +32,9 @@ The first and third element are always the same, and the counts at the beginning
 - **6)**
 
 
-That fibonacci value.
+That fibonacci value. $W(n) \in O(n) and S(n) \in O(n)$
 
 - **8)**
+
+
+$W(n) \in O(n) and S(n) \in O(n)$
